@@ -1,0 +1,70 @@
+h1{
+    text-align: center;
+    font-family: cursive;
+}
+.chicken{
+    height: 140px;
+    width: 316px;
+    padding: 10px;
+    border: 2px solid black;
+    background-color: gray;
+    margin: 0 0 0 -10px;
+}
+.pink{
+    height: 16px;
+    width: 96px;
+    padding: 2px;
+    border: 2px solid black;
+    margin: -12px 0 0 224px;
+    background-color: pink;
+    color: black;
+}
+.firstpara{
+margin: 0 0 0 26px;
+font-family: sans-serif;
+}
+.beef{
+    height: 140px;
+    width: 316px;
+    padding: 10px;
+    border: 2px solid black;
+    background-color: gray;
+    margin: -164px 0 0 345px;
+}
+.red{
+    height: 16px;
+    width: 96px;
+    padding: 2px;
+    border: 2px solid black;
+    margin: -12px 0 0 224px;
+    background-color: red;
+    color: white;
+}
+.secondpara{
+margin: 0 0 0 34px;
+font-family: sans-serif;
+}
+.sushi{
+    height: 140px;
+    width: 316px;
+    padding: 10px;
+    border: 2px solid black;
+    background-color: gray;
+    margin: -164px 0 0 700px;
+}
+.yellow{
+    height: 16px;
+    width: 96px;
+    padding: 2px;
+    border: 2px solid black;
+    margin: -12px 0 0 224px;
+    background-color: yellow;
+    color: black;
+}
+.thirdpara{
+    margin: 0 0 0 34px;
+    font-family: sans-serif;
+}
+div{
+    margin: 86px 0 0 136px;
+}
